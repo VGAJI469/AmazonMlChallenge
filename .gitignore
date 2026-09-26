@@ -1,12 +1,3 @@
-# Large datasets and outputs
-dataset/
-output/
-student_resource/dataset/
-student_resource/output/
-*.joblib
-*.pkl
-*.model
-
 # Python cache and environment
 __pycache__/
 *.py[cod]
